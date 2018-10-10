@@ -1,5 +1,4 @@
 # Openclassrooms
 Une démo pour apprendre
-Une démo qui se passe bien
-
+mon projet est de bien connaître github
 
